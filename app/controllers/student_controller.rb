@@ -1,3 +1,3 @@
-class StudentController < ActionController::Base
+class DynamicController < ActionController::Base
 
 end
