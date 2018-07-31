@@ -4,4 +4,6 @@ class DynamicController < ActionController::Base
     render "student"
   end
 
+def index
+end
 end
